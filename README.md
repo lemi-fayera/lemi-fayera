@@ -63,3 +63,69 @@ I enjoy learning by building real projects and improving step by step.
 
 ## ⚡ Fun Fact
 I believe consistency matters — I’m improving every day 🚀
+
+# 👋 Hi, I'm a MERN Stack Developer
+
+🚀 Building scalable, modern web applications with clean architecture and strong performance focus.
+
+---
+
+## 👨‍💻 About Me
+
+- MERN Stack Developer (React • Node.js • Express • MongoDB)
+- Focused on building **real-world, production-ready applications**
+- Strong in **full-stack development, API design, and UI engineering**
+- Write clean, reusable, and maintainable code
+- Comfortable working in team-based Git workflows
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS  
+**Backend:** Node.js, Express.js, REST APIs, JWT Auth  
+**Database:** MongoDB, Mongoose  
+**Tools:** Git, GitHub, Postman, Docker (basic), Vercel, Netlify  
+
+---
+
+## 📁 Projects
+
+🛒 **E-Commerce Platform**  
+Full-stack shopping platform with authentication, cart system, and admin features.
+
+💬 **Real-Time Chat App**  
+Messaging app with live communication, user presence, and secure authentication.
+
+📊 **Task Manager System**  
+Productivity tool for creating, managing, and tracking tasks efficiently.
+
+---
+
+## 💡 What I Offer
+
+- Clean and scalable full-stack architecture  
+- Strong API and frontend integration skills  
+- Problem-solving mindset for real-world systems  
+- Team collaboration & Git workflow experience  
+- Focus on performance and user experience  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lemi-fayera&layout=compact&hide_border=true)
+
+---
+
+## 📬 Contact
+
+📧 Email: lemifayera1@gmail.com 
+💼 LinkedIn: https://linkedin.com/in/lemi-fayera 
+🐙 GitHub: https://github.com/lemi-fayera  
+
+---
+
+⭐ *Focused on building impactful, real-world web applications.*
