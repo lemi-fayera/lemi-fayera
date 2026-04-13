@@ -61,7 +61,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lemi-fayera&layout=compact&theme=tokyonight&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lemi-fayera&theme=react-dark)
 
 ---
 ## 📬 Contact
