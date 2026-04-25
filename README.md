@@ -1,17 +1,12 @@
 # 👋 Hi, I'm Lemi Fayera
 
-🚀 MERN Stack Developer building scalable, high-performance web applications with clean architecture.
+🚀Aspiring MERN Stack Developer building scalable, high-performance web applications with clean architecture.
 
 ---
 
 ## 👨‍💻 About Me
 
-- Full-stack developer specializing in **MongoDB, Express, React, Node.js**
-- Focused on **production-ready applications**
-- Strong in **API design, frontend architecture, and system structure**
-- Clean, maintainable, and scalable code practices
-- Comfortable with **team collaboration and Git workflows**
-
+-Learning Full-stack developer specializing in **MongoDB, Express, React, Node.js**
 ---
 
 ## 🛠️ Tech Stack
@@ -36,38 +31,15 @@
 
 ---
 
-## 📁 Projects
-
-🛒 **E-Commerce Platform** – Full-stack app with authentication, cart, and admin features  
-💬 **Real-Time Chat App** – Live messaging with authentication and user presence  
-📊 **Task Manager** – Task tracking system with clean UI and backend integration  
-
----
-
-## 💡 What I Offer
-
-- Scalable full-stack architecture  
-- Clean API & frontend integration  
-- Strong problem-solving mindset  
-- Team collaboration with Git workflows  
-- Performance-focused development  
----
-
 ## 📊 GitHub Stats
-
 
 ![Streak](https://streak-stats.demolab.com?user=lemi-fayera&theme=tokyonight&hide_border=true)
 
-
 ---
 ## 📬 Contact
-
 📧Email: lemifayera1@gmail.com  
 💼 LinkedIn: https://linkedin.com/in/lemi-fayera  
-🐙GitHub: https://github.com/lemi-fayera
-<br>
 🐦 X: https://x.com/lemifb1
-
 ---
 
 ⭐ *Building real-world applications with clean, scalable solutions.*
