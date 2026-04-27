@@ -55,7 +55,7 @@
 
 📧Email: lemifayera1@gmail.com  
 💼 LinkedIn: https://linkedin.com/in/lemi-fayera  
-🐦 X: https://x.com/lemifb1
+🐦 X: https://x.com/lemi_fayera
 
 
 
