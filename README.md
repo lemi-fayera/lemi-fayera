@@ -43,9 +43,20 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Analytics</h2>
 
-![Streak](https://streak-stats.demolab.com?user=lemi-fayera&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=lemi-fayera&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    width="49%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=lemi-fayera&theme=tokyonight&show_icons=true&hide_border=true&custom_title=GitHub%20Stats"
+    alt="GitHub Stats"
+    width="49%"
+  />
+</p>
 
 ---
 ## 📬 Contact
