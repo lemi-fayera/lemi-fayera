@@ -42,7 +42,6 @@
 
 
 ---
-
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
