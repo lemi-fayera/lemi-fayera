@@ -50,10 +50,22 @@
     alt="GitHub Streak"
     width="49%"
   />
-
   <img
-    src="https://github-readme-stats.vercel.app/api?username=lemi-fayera&show_icons=true&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lemi-fayera&theme=tokyonight"
     alt="GitHub Stats"
+    width="49%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lemi-fayera&theme=tokyonight"
+    alt="Top Languages"
+    width="49%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lemi-fayera&theme=tokyonight"
+    alt="Most Used Languages"
     width="49%"
   />
 </p>
