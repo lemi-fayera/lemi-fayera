@@ -50,14 +50,13 @@
     alt="GitHub Streak"
     width="49%"
   />
-  
+
   <img
-    src="https://github-readme-stats.vercel.app/api?username=lemi-fayera&theme=tokyonight&show_icons=true&hide_border=true&custom_title=GitHub%20Stats"
+    src="https://github-readme-stats.vercel.app/api?username=lemi-fayera&show_icons=true&theme=tokyonight"
     alt="GitHub Stats"
     width="49%"
   />
 </p>
-
 ---
 ## 📬 Contact
 
