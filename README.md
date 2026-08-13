@@ -40,8 +40,9 @@
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 
 
-
 ---
+
+
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
@@ -51,7 +52,7 @@
     width="49%"
   />
   <img
-    src="https://github-profile-summary-card.vercel.app/api/cards/stats?username=lemi-fayera&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=lemi-fayera&theme=tokyonight&show_icons=true&hide_border=true"
     alt="GitHub Stats"
     width="49%"
   />
@@ -59,16 +60,13 @@
 
 <p align="center">
   <img
-    src="https://github-profile-summary-card.vercel.app/api/cards/repos-per-language?username=lemi-fayera&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemi-fayera&theme=tokyonight&layout=compact&hide_border=true"
     alt="Top Languages"
     width="49%"
   />
-  <img
-    src="https://github-profile-summary-card.vercel.app/api/cards/most-commit-language?username=lemi-fayera&theme=tokyonight"
-    alt="Most Used Languages"
-    width="49%"
-  />
 </p>
+
+
 ---
 
 ## 📬 Contact
