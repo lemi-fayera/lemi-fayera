@@ -46,22 +46,27 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=lemi-fayera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="Lemi's GitHub Stats"
+    src="https://streak-stats.demolab.com/?user=lemi-fayera&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
     width="49%"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemi-fayera&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
+    src="https://github-profile-summary-card.vercel.app/api/cards/stats?username=lemi-fayera&theme=tokyonight"
+    alt="GitHub Stats"
     width="49%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=lemi-fayera&theme=tokyo-night&hide_border=true"
-    alt="GitHub Activity Graph"
-    width="98%"
+    src="https://github-profile-summary-card.vercel.app/api/cards/repos-per-language?username=lemi-fayera&theme=tokyonight"
+    alt="Top Languages"
+    width="49%"
+  />
+  <img
+    src="https://github-profile-summary-card.vercel.app/api/cards/most-commit-language?username=lemi-fayera&theme=tokyonight"
+    alt="Most Used Languages"
+    width="49%"
   />
 </p>
 ---
