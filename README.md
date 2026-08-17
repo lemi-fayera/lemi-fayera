@@ -39,19 +39,17 @@
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 
-
 ---
-
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=lemi-fayera&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=lemi-fayera&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
     width="49%"
   />
- <img
+  <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lemi-fayera&theme=tokyonight"
     alt="GitHub Stats"
     width="49%"
@@ -70,7 +68,6 @@
     width="49%"
   />
 </p>
-
 ---
 
 ## 📬 Contact
